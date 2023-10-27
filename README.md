@@ -7,25 +7,25 @@ FR: [**Méthodes de calcul numérique / Limites de la machine**](Project_1.pdf) 
 EN: **Numerical Calculation Methods / Machine Limits** 
 
 # Project 2:
-To see the project click [here](Project_2.pdf) entitled :<br>
-FR: **Résolution de systèmes linéaires**<br>
+To see my project entitled :<br>
+FR: [**Résolution de systèmes linéaires**](Project_2.pdf)<br>
 EN: **Resolution of Linear Systems**
 
 # Project 3:
-To see the project click [here](Project_3.pdf) entitled :<br>
-FR: **Compression d’image à travers la factorisation SVD**<br>
+To see my project entitled :<br>
+FR: [**Compression d’image à travers la factorisation SVD](Project_3.pdf)**<br>
 EN: **Image Compression Through SVD Factorization**
 
 # Project 4:
-To see the project click [here](Project_4.pdf) entitled :<br>
-FR: **Systèmes d’équations non linéaires / Méthode de Newton-Raphson** <br>
+To see my project entitled :<br>
+FR: [**Systèmes d’équations non linéaires / Méthode de Newton-Raphson**](Project_4.pdf) <br>
 EN: **Nonlinear Systems of Equations / Newton-Raphson Method**
 
 # Project 5:
-To see the project click [here](Project_5.pdf) entitled :<br>
-EN: **Interpolation and integration methods/ cubic splines and surface interpolation**
+To see my project entitled :<br>
+EN: [**Interpolation and integration methods/ cubic splines and surface interpolation**](Project_5.pdf)
 
 # Project 6:
-To see the project click [here](Project_6.pdf) entitled :<br>
-FR: **Résolution approchée d’équations différentielles / Modélisation de systèmes dynamiques**<br>
+To see my project entitled :<br>
+FR: [**Résolution approchée d’équations différentielles / Modélisation de systèmes dynamiques**](Project_6.pdf)<br>
 EN: **Approximate Solution of Differential Equations / Modeling of Dynamical Systems**
