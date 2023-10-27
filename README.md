@@ -13,7 +13,7 @@ EN: **Resolution of Linear Systems**
 
 # Project 3:
 To see my project entitled :<br>
-FR: [**Compression d’image à travers la factorisation SVD](Project_3.pdf)**<br>
+FR: [**Compression d’image à travers la factorisation SVD**](Project_3.pdf)<br>
 EN: **Image Compression Through SVD Factorization**
 
 # Project 4:
