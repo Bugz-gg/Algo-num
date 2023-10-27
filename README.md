@@ -2,8 +2,8 @@
 Those are my project in math applied to computer science.
 
 # Project 1:
-To see the project click [here](Project_1.pdf) entitled :<br>
-FR: **Méthodes de calcul numérique / Limites de la machine**<br>
+To see my project entitled :<br>
+FR: [**Méthodes de calcul numérique / Limites de la machine**](Project_1.pdf) <br>
 EN: **Numerical Calculation Methods / Machine Limits** 
 
 # Project 2:
